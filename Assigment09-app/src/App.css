@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.signup{
+    margin-left: 400px;
+    margin-right: 420px;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(7, 183, 237);
+    margin-top: 50px;
+
+
+
+}
+.login{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(7, 183, 237);
+    padding: 20px;
+    margin-left: 400px;
+    margin-right: 420px;
+    margin-top: 50px;
+
+
+}
+
+.in1,.in2,.in3{
+    padding: 10px;
+}
+.home {
+    display: flex;
+    background-color: bisque;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
